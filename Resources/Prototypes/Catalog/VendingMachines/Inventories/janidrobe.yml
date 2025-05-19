@@ -10,10 +10,12 @@
    ClothingHeadsetService: 2
    ClothingOuterWinterJani: 2
    ClothingNeckScarfStripedPurple: 3
-   #Sunrise start
-  ClothingUniformJumpskirtJanimaidmini: 2
-  ClothingUniformJumpskirtJanimaid: 2
-    #Surise end
   contrabandInventory:
     ToyFigurineJanitor: 1
-
+  #Sunrise-start
+    ClothingUniformJumpskirtJanimaid: 1
+    ClothingUniformJumpskirtJanimaidmini: 1
+  emaggedInventory:
+    ClothingHandsTacticalMaidGloves: 1
+    ClothingUniformJumpskirtTacticalMaid: 1
+  #Sunrise-end
